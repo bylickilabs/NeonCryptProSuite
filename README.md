@@ -79,7 +79,7 @@ Neon-Encryption-App/
 - Responsive Design (optimiert für Desktop und mobile Geräte)
 
 ### 🌐 Social Media Integration
-- Icons für GitHub, Facebook, Twitch, Discord und Twitter
+- Icons für GitHub, Facebook, Twitch, und Discord
 - Dezente Transparenz mit Hover-Effekten
 
 ### ⚙️ Dropdown-Menüs
