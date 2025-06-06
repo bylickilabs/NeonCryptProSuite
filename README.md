@@ -123,7 +123,11 @@ Neon-Encryption-App/
 | 06.06.2025 | Sprachausgabe & Autosave integriert                       |
 | 06.06.2025 | Optimierungen für responsives Design & Performance        |
 
+<br>
+
 ---
+
+<br>
 
 ## ✅ Checkliste aller Funktionen
 
@@ -140,33 +144,53 @@ Neon-Encryption-App/
 - [x] Umfangreiche Hilfe- und Einstellungsmenüs
 - [x] Responsive Design & Cross-Browser-Kompatibilität
 
+<br>
+
 ---
+
+<br>
 
 ## 🚨 Wichtige Hinweise
 
 - Die verwendete Verschlüsselungsmethode ist individuell entwickelt und **nicht** für sicherheitskritische oder hochsensible Daten geeignet.
 - Optimiert und getestet für moderne Browser (Chrome, Firefox, Edge, Safari).
 
+<br>
+
 ---
+
+<br>
 
 ## ▶️ Anwendung starten
 
 1. Repository herunterladen oder klonen.
 2. Datei `index.html` im Browser öffnen.
 
+<br>
+
 ---
+
+<br>
 
 ## 📩 Kontakt und Support
 
 Bei Fragen, Problemen oder Wünschen für Erweiterungen stehe ich gerne zur Verfügung.
 
+<br>
+
 ---
+
+<br>
 
 ## 🙌 Danksagungen
 
 Dieses Projekt entstand durch eine konstruktive und kreative Zusammenarbeit mit **Meister**.  
 Herzlichen Dank für den inspirierenden Austausch und die klare Kommunikation!
 
+<br>
+
 ---
+
+<br>
 
 **✨ Viel Spaß mit der Neon Encryption App! 🚀✨**
