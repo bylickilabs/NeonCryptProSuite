@@ -2,12 +2,11 @@
 |---|
 
 - Neon
-  - Klarer Bezug zum modernen Neon-Design mit visueller Attraktivität.
-
+  - Klarer Bezug zum modernen Neon-Design mit visueller Attraktivität. <p>
 - Crypt (Kurzform für Encryption/Decryption)
-  - Deutliche Verbindung zur Hauptfunktion: Sichere, einzigartige Verschlüsselung & Entschlüsselung.
+  - Deutliche Verbindung zur Hauptfunktion: Sichere, einzigartige Verschlüsselung & Entschlüsselung. <p>
 - Pro
-  - Signalisiert professionellen Anspruch und umfangreiche, erweiterte Funktionen.
+  - Signalisiert professionellen Anspruch und umfangreiche, erweiterte Funktionen. <p>
 - Suite
   - Umfasst eine vollständige Sammlung verschiedenster Tools: Passwortgenerator, QR-Code-Funktionen, Automatisierung, Textbearbeitung, Social Media Integration und mehr.
     
