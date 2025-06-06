@@ -38,3 +38,127 @@ Neon-Encryption-App/
 ├── QRCode.js
 └── jsQR
 ```
+
+<br>
+
+---
+
+<br>
+
+## 🚀 Funktionsumfang
+
+### 🔒 Kernfunktionen
+- Verschlüsseln und Entschlüsseln von Nachrichten
+- Benutzerdefinierte, einzigartige Verschlüsselungsmethode
+- QR-Code-Erstellung aus verschlüsseltem Text
+- QR-Code-Scanner mit automatischer Entschlüsselung
+
+### 📋 Zusatzfunktionen für Texte
+- Groß-/Kleinschreibung umschalten
+- Text umkehren
+- Zufällige Texte generieren
+- Textsuche integriert
+- Zeichenlimit setzen
+
+### 📌 Praktische Erweiterungen
+- Ergebnis kopieren (Clipboard)
+- Ergebnis als Textdatei speichern
+- Ergebnis drucken
+- Sprachausgabe (Vorlesen des Ergebnisses)
+- Automatische Speicherung (Autosave)
+
+### 🔑 Erweiterter Passwortgenerator
+- Auswahl von Groß-, Kleinbuchstaben, Zahlen und Sonderzeichen
+- Passwortlänge über Schieberegler auswählbar (4–64 Zeichen)
+- Passwortgenerator dauerhaft als vertikale Sidebar rechts angezeigt
+
+### 🎨 UI/UX
+- Neon-Thema mit animierten Farbverläufen
+- Umschaltbarer Dark-/Light Mode
+- Responsive Design (optimiert für Desktop und mobile Geräte)
+
+### 🌐 Social Media Integration
+- Icons für GitHub, Facebook, Twitch, Discord und Twitter
+- Dezente Transparenz mit Hover-Effekten
+
+### ⚙️ Dropdown-Menüs
+- Umfangreiches Menü „Hilfe & Einstellungen“
+  - Erklärung aller Funktionen
+  - Möglichkeit zum Medienupload
+  - Editierbare und speicherbare Projektbeschreibung
+
+---
+
+## 🛠️ Eingesetzte Technologien
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Icons:** Font Awesome (CDN)
+- **QR-Codes:** QRCode.js, jsQR
+- **Sprachausgabe:** Web Speech API (native)
+
+---
+
+## 🔄 Änderungsverlauf & Versionshistorie
+
+| Datum      | Beschreibung der Änderungen                               |
+|------------|-----------------------------------------------------------|
+| 06.06.2025 | Projektinitialisierung und grundlegende Funktionen        |
+| 06.06.2025 | Benutzerdefinierte Verschlüsselung integriert             |
+| 06.06.2025 | Neon-Design und Animationen implementiert                 |
+| 06.06.2025 | Erweiterte Zusatzfunktionen hinzugefügt                   |
+| 06.06.2025 | QR-Code-Erstellung und Scanfunktion integriert            |
+| 06.06.2025 | Passwortgenerator (mit Optionen & Slider) erstellt        |
+| 06.06.2025 | Passwortgenerator als Sidebar rechts platziert            |
+| 06.06.2025 | Social Media Buttons hinzugefügt                          |
+| 06.06.2025 | Dropdown-Menü „Hilfe & Einstellungen“ erweitert           |
+| 06.06.2025 | Dark-/Lightmode implementiert                             |
+| 06.06.2025 | Sprachausgabe & Autosave integriert                       |
+| 06.06.2025 | Optimierungen für responsives Design & Performance        |
+
+---
+
+## ✅ Checkliste aller Funktionen
+
+- [x] Eigenentwickelte Verschlüsselung
+- [x] Neon-Design (animiert)
+- [x] QR-Code Generator & Scanner
+- [x] Erweiterter Passwortgenerator mit Slider
+- [x] Text- und Sonderfunktionen
+- [x] Zeichenlimit und Textsuche
+- [x] Automatische Speicherung (Autosave)
+- [x] Sprachausgabe (Text-to-Speech)
+- [x] Social Media Integration
+- [x] Umschaltbarer Dark-/Light Mode
+- [x] Umfangreiche Hilfe- und Einstellungsmenüs
+- [x] Responsive Design & Cross-Browser-Kompatibilität
+
+---
+
+## 🚨 Wichtige Hinweise
+
+- Die verwendete Verschlüsselungsmethode ist individuell entwickelt und **nicht** für sicherheitskritische oder hochsensible Daten geeignet.
+- Optimiert und getestet für moderne Browser (Chrome, Firefox, Edge, Safari).
+
+---
+
+## ▶️ Anwendung starten
+
+1. Repository herunterladen oder klonen.
+2. Datei `index.html` im Browser öffnen.
+
+---
+
+## 📩 Kontakt und Support
+
+Bei Fragen, Problemen oder Wünschen für Erweiterungen stehe ich gerne zur Verfügung.
+
+---
+
+## 🙌 Danksagungen
+
+Dieses Projekt entstand durch eine konstruktive und kreative Zusammenarbeit mit **Meister**.  
+Herzlichen Dank für den inspirierenden Austausch und die klare Kommunikation!
+
+---
+
+**✨ Viel Spaß mit der Neon Encryption App! 🚀✨**
