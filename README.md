@@ -24,8 +24,6 @@ Die ✨ **NeonCryptProSuite** ✨ ist eine moderne, intuitiv bedienbare Webanwen
 - Sie wurde mit **HTML**, **CSS** und **JavaScript** entwickelt und nutzt eine einzigartige, selbst entwickelte Verschlüsselungsmethode.
   - Neben sicherem Austausch von Nachrichten bietet die App zahlreiche praktische Zusatzfunktionen in einem attraktiven Neon-Design.
 
----
-
 ## 🗂️ Projektstruktur
 
 ```yarn
