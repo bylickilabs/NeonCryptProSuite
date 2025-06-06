@@ -100,7 +100,11 @@ Neon-Encryption-App/
 - **QR-Codes:** QRCode.js, jsQR
 - **Sprachausgabe:** Web Speech API (native)
 
+<br>
+
 ---
+
+<br>
 
 ## 🔄 Änderungsverlauf & Versionshistorie
 
