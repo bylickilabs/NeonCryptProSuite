@@ -111,7 +111,7 @@ Neon-Encryption-App/
 
 | Datum      | Beschreibung der Grund Funktionalität & Implementierung   |
 | :---       |                    :---:                                  |
-|------------|-----------------------------------------------------------|
+|            |                                                           |
 | 06.06.2025 | Projektinitialisierung und grundlegende Funktionen        |
 | 06.06.2025 | Benutzerdefinierte Verschlüsselung integriert             |
 | 06.06.2025 | Neon-Design und Animationen implementiert                 |
