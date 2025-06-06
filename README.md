@@ -87,7 +87,11 @@ Neon-Encryption-App/
   - Möglichkeit zum Medienupload
   - Editierbare und speicherbare Projektbeschreibung
 
+<br>
+
 ---
+
+<br>
 
 ## 🛠️ Eingesetzte Technologien
 
