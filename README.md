@@ -70,11 +70,11 @@ Neon-Encryption-App/
 ### 🔑 Erweiterter Passwortgenerator
 - Auswahl von Groß-, Kleinbuchstaben, Zahlen und Sonderzeichen
 - Passwortlänge über Schieberegler auswählbar (4–64 Zeichen)
-- Passwortgenerator dauerhaft als vertikale Sidebar rechts angezeigt
+- Passwortgenerator dauerhaft als horizontales Dropdown angezeigt
 
 ### 🎨 UI/UX
 - Neon-Thema mit animierten Farbverläufen
-- Umschaltbarer Dark-/Light Mode
+- Umschaltbarer Tag-/Nacht Zyklus
 - Responsive Design (optimiert für Desktop und mobile Geräte)
 
 ### 🌐 Social Media Integration
@@ -108,7 +108,7 @@ Neon-Encryption-App/
 
 ## 🔄 Änderungsverlauf & Versionshistorie
 
-| Datum      | Beschreibung der Änderungen                               |
+| Datum      | Beschreibung der Grund Funktionalität & Implementierung   |
 |------------|-----------------------------------------------------------|
 | 06.06.2025 | Projektinitialisierung und grundlegende Funktionen        |
 | 06.06.2025 | Benutzerdefinierte Verschlüsselung integriert             |
@@ -174,7 +174,8 @@ Neon-Encryption-App/
 
 ## 📩 Kontakt und Support
 
-Bei Fragen, Problemen oder Wünschen für Erweiterungen stehe ich gerne zur Verfügung.
+- Bei Fragen, Problemen oder Wünschen für Erweiterungen stehe ich gerne zur Verfügung.
+  - Pull Request erstellen
 
 <br>
 
@@ -182,15 +183,4 @@ Bei Fragen, Problemen oder Wünschen für Erweiterungen stehe ich gerne zur Verf
 
 <br>
 
-## 🙌 Danksagungen
-
-Dieses Projekt entstand durch eine konstruktive und kreative Zusammenarbeit mit **Meister**.  
-Herzlichen Dank für den inspirierenden Austausch und die klare Kommunikation!
-
-<br>
-
----
-
-<br>
-
-**✨ Viel Spaß mit der Neon Encryption App! 🚀✨**
+**✨ Viel Spaß mit dieser App! 🚀✨**
