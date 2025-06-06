@@ -1,6 +1,9 @@
 |✨NeonCryptProSuite✨|
 |---|
 
+|![NeonCryptProSuite](https://github.com/user-attachments/assets/7bb830fd-acb1-4e93-ab82-5f2cf5f191eb)|
+|---|
+
 - Neon
   - Klarer Bezug zum modernen Neon-Design mit visueller Attraktivität. <p>
 - Crypt (Kurzform für Encryption/Decryption)
