@@ -1,5 +1,5 @@
-|✨NeonCryptProSuite✨| [► Download ◄](https://github.com/bylickilabs/NeonCryptProSuite/archive/refs/heads/main.zip)|
-|---|---|
+|[![Sponsor](https://img.shields.io/badge/%F0%9F%92%96-Sponsor-ff69b4?style=flat-square)](https://github.com/sponsors/bylickilabs)||✨NeonCryptProSuite✨| [► Download ◄](https://github.com/bylickilabs/NeonCryptProSuite/archive/refs/heads/main.zip)|
+|---|---|--->
 
 |![NeonCryptProSuite](https://github.com/user-attachments/assets/7bb830fd-acb1-4e93-ab82-5f2cf5f191eb)|
 |---|
