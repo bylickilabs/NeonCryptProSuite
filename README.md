@@ -1,4 +1,4 @@
-|✨NeonCryptProSuite✨| [Download](https://github.com/bylickilabs/NeonCryptProSuite/archive/refs/heads/main.zip)|
+|✨NeonCryptProSuite✨| [► Download ◄](https://github.com/bylickilabs/NeonCryptProSuite/archive/refs/heads/main.zip)|
 |---|---|
 
 |![NeonCryptProSuite](https://github.com/user-attachments/assets/7bb830fd-acb1-4e93-ab82-5f2cf5f191eb)|
